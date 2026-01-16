@@ -268,5 +268,10 @@ For questions, suggestions, or collaboration opportunities:
 - Inspired by real-world retail analytics challenges
 
 ---
+## 📁 Data Note
 
+Processed datasets are excluded from the repository due to size constraints.
+All results, plots, and evaluation reports are included for reproducibility.
+
+---
 **Note:** This project demonstrates production-level data engineering and machine learning practices, including robust error handling, modular design, comprehensive logging, and automated evaluation workflows.
